@@ -1,1 +1,36 @@
-to record the learning process
+
+### 原则
+
+* 三个一：一门课，一本书，一个项目
+一门课：有一门视频课跟着学——入门
+一本书：一本书，系统的自学——打牢基础
+一个项目：实践项目——练手（譬如学完html+css独立写一个完整的静态网站）
+
+## 学习路线
+
+
+
+### 前端基础
+
+#### 学习内容
+html+css+js
+
+#### 学习方式
+
+* 饥人谷前端课程
+* 书单：
+    * 阮一峰javascript标准参考教程（https://wangdoc.com/javascript/index.html）
+    * 《js权威指南》第9章前（核心语法）
+
+### 前端进阶
+
+jQuery+es6语法+vue.js
+
+
+### 后端语言
+
+java
+
+#### 学习路线（跟阿发教程学习）
+
+Java入门篇->Java基础篇->Java网站篇->Java网站高级篇
